@@ -25,3 +25,7 @@ This is a Dockerized Solution for Team member Management App in Django REST (Pyt
 **Pre-requisite - Should Have Python and Docker Setup.**
 
 
+
+<img width="1305" alt="Screenshot 2025-03-31 at 12 03 48 PM" src="https://github.com/user-attachments/assets/657c194f-0977-424e-9439-3f2b9f931661" />
+
+

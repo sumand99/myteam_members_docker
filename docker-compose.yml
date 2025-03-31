@@ -1,0 +1,18 @@
+version: '3.9'
+# services:
+#   web:
+#     build: .
+#     container_name: myteam_members_web
+#     command: python manage.py runserver 0.0.0.0:8000
+#     ports:
+#       - '8000:8000'
+#     # volumes:
+#     #   - .:/app  # uncomment if you want code changes on host to reflect in container
+
+services:
+  web:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - '8000:8000'
